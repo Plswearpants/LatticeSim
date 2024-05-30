@@ -1,6 +1,6 @@
 # LatticeSim
 LatticeSim simulates lattice Bragg peaks associated with different projection planes. 
-This repository contains MATLAB scripts and functions for simulating and visualizing 3D atomic lattices, particularly focusing on Pt and Sn sublattices. The main script processes lattice data performs Gaussian smoothing and generates advanced visualizations, including Fourier Transform analysis.
+This repository contains MATLAB scripts and functions for simulating and visualizing 3D atomic lattices, mainly focusing on Pt and Sn sublattices. The main script processes lattice data, performs Gaussian smoothing, and generates advanced visualizations, including Fourier Transform analysis.
 
 ## Objectives
 
