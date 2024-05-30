@@ -32,4 +32,5 @@ This repository contains MATLAB scripts and functions for simulating and visuali
 - **updateTickLabelsFFT**: Updates tick labels to show physical units in the frequency domain.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+None
+
